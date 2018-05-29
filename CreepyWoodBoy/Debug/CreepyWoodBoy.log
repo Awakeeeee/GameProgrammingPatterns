@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\ms visualstudio\cpp\gameprogrammingpatterns\creepywoodboy\main.cpp(40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  CreepyWoodBoy.vcxproj -> D:\MS VisualStudio\Cpp\GameProgrammingPatterns\Debug\CreepyWoodBoy.exe
+  CreepyWoodBoy.vcxproj -> D:\MS VisualStudio\Cpp\GameProgrammingPatterns\Debug\CreepyWoodBoy.pdb (Full PDB)
