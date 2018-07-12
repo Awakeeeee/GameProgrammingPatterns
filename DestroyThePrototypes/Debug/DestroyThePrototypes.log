@@ -1,11 +1,1 @@
-﻿  Main.cpp
-d:\ms visualstudio\cpp\gameprogrammingpatterns\destroytheprototypes\main.cpp(97): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-d:\ms visualstudio\cpp\gameprogrammingpatterns\destroytheprototypes\main.cpp(123): warning C4005: 'CreateWindow': macro redefinition
-  c:\program files (x86)\windows kits\8.1\include\um\winuser.h(4286): note: see previous definition of 'CreateWindow'
-d:\ms visualstudio\cpp\gameprogrammingpatterns\destroytheprototypes\main.cpp(164): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
-d:\ms visualstudio\cpp\gameprogrammingpatterns\destroytheprototypes\main.cpp(173): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-d:\ms visualstudio\cpp\gameprogrammingpatterns\destroytheprototypes\main.cpp(175): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-d:\ms visualstudio\cpp\gameprogrammingpatterns\destroytheprototypes\main.cpp(177): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-d:\ms visualstudio\cpp\gameprogrammingpatterns\destroytheprototypes\main.cpp(179): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  DestroyThePrototypes.vcxproj -> D:\MS VisualStudio\Cpp\GameProgrammingPatterns\Debug\DestroyThePrototypes.exe
-  DestroyThePrototypes.vcxproj -> D:\MS VisualStudio\Cpp\GameProgrammingPatterns\Debug\DestroyThePrototypes.pdb (Full PDB)
+﻿

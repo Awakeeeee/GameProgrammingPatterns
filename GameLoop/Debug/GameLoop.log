@@ -1,0 +1,7 @@
+﻿  Source.cpp
+d:\projects\cpp\gameprogrammingpatterns\gameloop\source.cpp(24): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+d:\projects\cpp\gameprogrammingpatterns\gameloop\source.cpp(25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+d:\projects\cpp\gameprogrammingpatterns\gameloop\source.cpp(27): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+d:\projects\cpp\gameprogrammingpatterns\gameloop\source.cpp(29): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+d:\projects\cpp\gameprogrammingpatterns\gameloop\source.cpp(53): warning C4244: 'initializing': conversion from '__int64' to 'double', possible loss of data
+  GameLoop.vcxproj -> D:\Projects\Cpp\GameProgrammingPatterns\Debug\GameLoop.exe

@@ -105,7 +105,7 @@ private:
 bool Singleton_NonStatic::_has_initialized = false;
 
 
-//==============an overall manager if singletons
+//==============an overall manager of singletons
 
 class A_Manager
 {

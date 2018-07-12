@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CreepyWoodBoy", "CreepyWoodBoy\CreepyWoodBoy.vcxproj", "{061B98EC-5FAC-4B24-8CBA-4E7E6BB78711}"
 EndProject
@@ -12,6 +12,12 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CppSingletons", "CppSingletons\CppSingletons.vcxproj", "{2CC5011C-BCCD-411F-BF70-B6E2CBE31024}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TextAdventure", "TextAdventure\TextAdventure.vcxproj", "{233360C8-FD5A-4BB2-B311-25C04A36F5D4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Slappy_DoubleBuffer", "Slappy_DoubleBuffer\Slappy_DoubleBuffer.vcxproj", "{F8DC8002-A867-4FD8-82B0-79CB075205F3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GameLoop", "GameLoop\GameLoop.vcxproj", "{0BD59DA9-3431-4EE3-BD1D-95A92B9C5E49}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SimulateUnityComponent", "SimulateUnityComponent\SimulateUnityComponent.vcxproj", "{C15AB1B0-535B-4F62-968C-12BCD558D622}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,8 +67,35 @@ Global
 		{233360C8-FD5A-4BB2-B311-25C04A36F5D4}.Release|x64.Build.0 = Release|x64
 		{233360C8-FD5A-4BB2-B311-25C04A36F5D4}.Release|x86.ActiveCfg = Release|Win32
 		{233360C8-FD5A-4BB2-B311-25C04A36F5D4}.Release|x86.Build.0 = Release|Win32
+		{F8DC8002-A867-4FD8-82B0-79CB075205F3}.Debug|x64.ActiveCfg = Debug|x64
+		{F8DC8002-A867-4FD8-82B0-79CB075205F3}.Debug|x64.Build.0 = Debug|x64
+		{F8DC8002-A867-4FD8-82B0-79CB075205F3}.Debug|x86.ActiveCfg = Debug|Win32
+		{F8DC8002-A867-4FD8-82B0-79CB075205F3}.Debug|x86.Build.0 = Debug|Win32
+		{F8DC8002-A867-4FD8-82B0-79CB075205F3}.Release|x64.ActiveCfg = Release|x64
+		{F8DC8002-A867-4FD8-82B0-79CB075205F3}.Release|x64.Build.0 = Release|x64
+		{F8DC8002-A867-4FD8-82B0-79CB075205F3}.Release|x86.ActiveCfg = Release|Win32
+		{F8DC8002-A867-4FD8-82B0-79CB075205F3}.Release|x86.Build.0 = Release|Win32
+		{0BD59DA9-3431-4EE3-BD1D-95A92B9C5E49}.Debug|x64.ActiveCfg = Debug|x64
+		{0BD59DA9-3431-4EE3-BD1D-95A92B9C5E49}.Debug|x64.Build.0 = Debug|x64
+		{0BD59DA9-3431-4EE3-BD1D-95A92B9C5E49}.Debug|x86.ActiveCfg = Debug|Win32
+		{0BD59DA9-3431-4EE3-BD1D-95A92B9C5E49}.Debug|x86.Build.0 = Debug|Win32
+		{0BD59DA9-3431-4EE3-BD1D-95A92B9C5E49}.Release|x64.ActiveCfg = Release|x64
+		{0BD59DA9-3431-4EE3-BD1D-95A92B9C5E49}.Release|x64.Build.0 = Release|x64
+		{0BD59DA9-3431-4EE3-BD1D-95A92B9C5E49}.Release|x86.ActiveCfg = Release|Win32
+		{0BD59DA9-3431-4EE3-BD1D-95A92B9C5E49}.Release|x86.Build.0 = Release|Win32
+		{C15AB1B0-535B-4F62-968C-12BCD558D622}.Debug|x64.ActiveCfg = Debug|x64
+		{C15AB1B0-535B-4F62-968C-12BCD558D622}.Debug|x64.Build.0 = Debug|x64
+		{C15AB1B0-535B-4F62-968C-12BCD558D622}.Debug|x86.ActiveCfg = Debug|Win32
+		{C15AB1B0-535B-4F62-968C-12BCD558D622}.Debug|x86.Build.0 = Debug|Win32
+		{C15AB1B0-535B-4F62-968C-12BCD558D622}.Release|x64.ActiveCfg = Release|x64
+		{C15AB1B0-535B-4F62-968C-12BCD558D622}.Release|x64.Build.0 = Release|x64
+		{C15AB1B0-535B-4F62-968C-12BCD558D622}.Release|x86.ActiveCfg = Release|Win32
+		{C15AB1B0-535B-4F62-968C-12BCD558D622}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C5C2025-3D85-4018-BCD0-09C7619A52EA}
 	EndGlobalSection
 EndGlobal
